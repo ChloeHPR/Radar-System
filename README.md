@@ -28,7 +28,13 @@ By processing this file with `traitement_triangle.py`, the algorithm separates t
 
 ##  Installation and Usage
 
-1. **Install the required dependencies:**
+1. Clone this repository
+
+2. **Install the required dependencies:**
 ```bash
 pip install numpy scipy matplotlib
 ```
+
+3. First run the `speed_mode.py` script and then the `main.py` script.
+
+It's possible to use your own acquisition, make sure you use the same protocol and the same file format. More examples will be given soon.
